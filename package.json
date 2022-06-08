@@ -1,5 +1,6 @@
 {
   "name": "realtime-weather-app",
+  "homepage": "https://eqwp452.github.io/my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
